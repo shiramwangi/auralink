@@ -23,8 +23,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Auralink",
-  description: "Created with v0",
-  generator: "v0.app",
+  description: "Auralink connects every call, chat, and meeting into a unified AI layer — delivering real-time insights, tone analysis, and team alignment across your favorite tools.",
+  generator: "auralink.com",
   icons: {
     icon: "/auralink.png",
   },
