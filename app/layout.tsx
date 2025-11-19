@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   description: "Created with v0",
   generator: "v0.app",
   icons: {
-    icon: "/icon.svg",
+    icon: "/auralink.png",
   },
 }
 
